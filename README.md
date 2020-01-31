@@ -1,2 +1,3 @@
-# Teste-1
-Teste para meu início de programação
+# Hello-World
+
+Estou aprendendo Python como minha primeira linguagem e vou usar esse repository para testar códigos iniciais
